@@ -10,17 +10,18 @@
 
 ## Prompt 1
 
-**Data:** [dd/mm/aaaa]
+**Data:** [13/10/2026]
 
 **Prompt:**
 
 ```
-[cole aqui o texto exato que você enviou]
+Complete as funções a seguir de acordo com os requisitos de software apresentados (requisitos.md)
 ```
 
-**Resumo da resposta:** [o que a IA respondeu, em 2 ou 3 linhas]
+**Resumo da resposta:** O arquivo src/fila.js implementa as quatro funções: calcular idade, classificar prioridades, ordenar a fila sem alterar a lista original e formatar nomes para o painel.
+Para validar, execute npm test no terminal. Ainda é necessário completar os testes automatizados e, se exigido, tratar entradas inválidas.
 
-**O que fiz com isso:** [usei o código? testei? corrigi? descartei por quê?]
+**O que fiz com isso:** Usei o código
 
 ---
 
