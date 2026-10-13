@@ -1,8 +1,8 @@
 # Código da IA sob inspeção: Fila de Atendimento da Unidade de Saúde
 
-**Dupla:** [nome do estudante A] e [nome do estudante B]
+**Dupla:** Alissa Garcia Moreira e Tainá Rodrigues dos Santos
 **Disciplina:** Qualidade de Software, ADS, IFCE Campus Boa Viagem
-**Ferramenta de IA usada:** [ex.: ChatGPT, Claude, Gemini, Copilot]
+**Ferramenta de IA usada:** Copilot e Chatgpt
 
 > Apaguem as instruções em itálico ao preencher. Sigam as partes **na ordem**. A Parte 3 só começa quando o professor publicar o depoimento no Classroom.
 
