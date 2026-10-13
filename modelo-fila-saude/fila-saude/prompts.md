@@ -1,8 +1,8 @@
 # Registro do uso da IA
 
-**Dupla:** [nomes]
+**Dupla:** Alissa Garcia Moreira e Tainá Rodrigues dos Santos
 **Atividade:** Código da IA sob inspeção: Fila de Atendimento da Unidade de Saúde
-**Ferramenta(s) usada(s):** [ex.: ChatGPT, Claude, Gemini, Copilot; indique a versão ou o plano, se souber]
+**Ferramenta(s) usada(s):** Copilot e chatgpt
 
 > Registre todos os prompts relevantes, na ordem em que foram usados. Obrigatórios: o prompt que gerou o código (Parte 1) e o prompt que gerou os testes da IA (Parte 2.6). Não é preciso colar a resposta inteira da IA: resuma o que ela respondeu e diga o que você fez com isso.
 
@@ -26,8 +26,7 @@
 
 ## Prompt 2
 
-**Data:** [dd/mm/aaaa]
-
+**Data:** [13/10/2026]
 **Prompt:**
 
 ```
